@@ -1,0 +1,8 @@
+streamlit
+opencv-python
+numpy
+tensorflow
+spotipy
+openai
+streamlit-lottie
+requests
